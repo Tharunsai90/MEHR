@@ -1,0 +1,14 @@
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR_activity_day2\MEHR_activity_day2\bin\Debug\MEHR_activity_day2.exe.config
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR_activity_day2\MEHR_activity_day2\bin\Debug\MEHR_activity_day2.exe
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR_activity_day2\MEHR_activity_day2\bin\Debug\MEHR_activity_day2.pdb
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR_activity_day2\MEHR_activity_day2\obj\Debug\MEHR_activity_day2.csproj.AssemblyReference.cache
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR_activity_day2\MEHR_activity_day2\obj\Debug\MEHR_activity_day2.csproj.CoreCompileInputs.cache
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR_activity_day2\MEHR_activity_day2\obj\Debug\MEHR_activity_day2.exe
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR_activity_day2\MEHR_activity_day2\obj\Debug\MEHR_activity_day2.pdb
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR\MEHR_activity_day2\MEHR_activity_day2\bin\Debug\MEHR_activity_day2.exe.config
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR\MEHR_activity_day2\MEHR_activity_day2\bin\Debug\MEHR_activity_day2.exe
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR\MEHR_activity_day2\MEHR_activity_day2\bin\Debug\MEHR_activity_day2.pdb
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR\MEHR_activity_day2\MEHR_activity_day2\obj\Debug\MEHR_activity_day2.csproj.AssemblyReference.cache
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR\MEHR_activity_day2\MEHR_activity_day2\obj\Debug\MEHR_activity_day2.csproj.CoreCompileInputs.cache
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR\MEHR_activity_day2\MEHR_activity_day2\obj\Debug\MEHR_activity_day2.exe
+C:\Users\kwr579\Desktop\MEHR_automation_Day2\MEHR\MEHR_activity_day2\MEHR_activity_day2\obj\Debug\MEHR_activity_day2.pdb
